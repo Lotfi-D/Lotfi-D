@@ -8,5 +8,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/lotfi-doucanef-a877781b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/lotfi-doucanef-a877781b7" height="30" width="40" /></a>
-<a href="https://codesandbox.com/lotfi doucanef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="lotfi doucanef" height="30" width="40" /></a>
 </p>
